@@ -1,22 +1,22 @@
 
 # Comparación de Algoritmos de Ordenamiento
 
-Este proyecto implementa y compara el rendimiento de tres algoritmos de ordenamiento (Burbuja, Selección e Inserción) utilizando datasets generados con características específicas para analizar su comportamiento en diferentes escenarios (casos promedio, mejores y peores).
+Este proyecto implementa y compara el rendimiento de tres algoritmos de ordenamiento (Burbuja, Selección e Inserción) utilizando datasets generados con características específicas para analizar su comportamiento en diferentes escenarios.
 
 ## 📋Descripción del Proyecto
-El objetivo principal es medir empíricamente el tiempo de ejecución (en nanosegundos), el número de comparaciones y los intercambios (swaps) realizados por cada algoritmo al ordenar listas de objetos complejos (Citas, Pacientes, Inventario).
+El objetivo principal es medir empíricamente el tiempo de ejecución (en nanosegundos), el número de comparaciones y los intercambios (swaps) realizados por cada algoritmo al ordenar listas (datasets) de objetos complejos (Citas, Pacientes, Inventario).
 
 ## Algoritmos Implementados
-    1. Bubble Sort (Burbuja): Con optimización de bandera (swapped).
-    2. Selection Sort (Selección): Busca el mínimo y lo intercambia.
-    3. Insertion Sort (Inserción): Construye la lista ordenada elemento a elemento.
+    1. Bubble Sort (Burbuja): compara pares vecinos y los intercambia si están mal; repite pasadas hasta dejar todo ordenado.
+    2. Selection Sort (Selección): busca el mínimo en la parte no ordenada y lo coloca al frente en cada iteración.
+    3. Insertion Sort (Inserción): toma cada elemento y lo desplaza hacia atrás hasta insertarlo donde mantiene el orden correcto.
 Todas las implementaciones son genéricas, trabajando con ```Comparable[]``` para soportar cualquier tipo de objeto.
 
 ## 📂 Estructura del Proyecto
 
 ```bash
-MiProyecto/
-├── src/
+Comparacion/
+├── src/main/java
 │   ├── Main.java              # Punto de entrada. Ejecuta las pruebas.
 │   ├── BenchmarkRunner.java   # Ejecuta cada algoritmo con repeticiones para mayor precisión.
 │   ├── CSVLoader.java         # Carga los archivos CSV desde raíz, src o resources.
@@ -31,8 +31,7 @@ MiProyecto/
 ├── citas_100.csv              # Dataset 1: Aleatorio
 ├── citas_100_casi_ordenadas.csv # Dataset 2: Casi ordenado
 ├── pacientes_500.csv          # Dataset 3: Duplicados
-├── inventario_500_inverso.csv # Dataset 4: Orden inverso
-└── README.md                  # Este archivo
+└── inventario_500_inverso.csv # Dataset 4: Orden inverso
 ```
 
 ## 📊 Datasets Utilizados
@@ -71,12 +70,9 @@ Los archivos CSV fueron generados usando una semilla fija (42) para garantizar r
 
 El programa imprimirá en consola una tabla comparativa para cada dataset:
 
-|=== Citas (Casi Ordenadas) ===                   |
-|-------------------------------------------------|
-|Algoritmo|   Comparisons   |Swaps|   Mediana(ns)|
-|Insertion |       ...       |...|       ...|
-|Selection  |      ...       |... |      ...|
-|Bubble |          ...       |...  |     ...|
+<img width="486" height="148" alt="Captura de pantalla 2025-11-23 153112" src="https://github.com/user-attachments/assets/a0ba7656-0b88-4fb9-b24e-b6bdf0143b1b" />
+
+
 
 ## 👤 Autores
 **Estudiantes**: Daniel Saavedra, Emilio Galvez
