@@ -79,4 +79,4 @@ El programa imprimirá en consola una tabla comparativa para cada dataset:
 
 **Asignatura**: Estructura de Datos
 
-**Fecha**: Noviembre 2024
+**Fecha**: Noviembre 2025
