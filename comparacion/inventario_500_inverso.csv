@@ -1,0 +1,501 @@
+id;insumo;stock
+ITEM-0001;Algodón Paquete 500g;500
+ITEM-0002;Bata Quirúrgica;499
+ITEM-0003;Jeringa 5ml;498
+ITEM-0004;Mascarilla N95;497
+ITEM-0005;Suero Fisiológico 500ml;496
+ITEM-0006;Gasas 10x10;495
+ITEM-0007;Bisturí Desechable;494
+ITEM-0008;Bisturí Desechable;493
+ITEM-0009;Mascarilla N95;492
+ITEM-0010;Aguja Hipodérmica;491
+ITEM-0011;Bata Quirúrgica;490
+ITEM-0012;Alcohol 70% 1L;489
+ITEM-0013;Guante Nitrilo Talla M;488
+ITEM-0014;Aguja Hipodérmica;487
+ITEM-0015;Termómetro Digital;486
+ITEM-0016;Termómetro Digital;485
+ITEM-0017;Alcohol 70% 1L;484
+ITEM-0018;Alcohol 70% 1L;483
+ITEM-0019;Venda Elástica;482
+ITEM-0020;Jeringa 5ml;481
+ITEM-0021;Venda Elástica;480
+ITEM-0022;Mascarilla N95;479
+ITEM-0023;Gasas 10x10;478
+ITEM-0024;Bata Quirúrgica;477
+ITEM-0025;Alcohol 70% 1L;476
+ITEM-0026;Jeringa 5ml;475
+ITEM-0027;Bata Quirúrgica;474
+ITEM-0028;Mascarilla N95;473
+ITEM-0029;Gasas 10x10;472
+ITEM-0030;Aguja Hipodérmica;471
+ITEM-0031;Venda Elástica;470
+ITEM-0032;Algodón Paquete 500g;469
+ITEM-0033;Mascarilla N95;468
+ITEM-0034;Termómetro Digital;467
+ITEM-0035;Bisturí Desechable;466
+ITEM-0036;Venda Elástica;465
+ITEM-0037;Guante Nitrilo Talla M;464
+ITEM-0038;Bisturí Desechable;463
+ITEM-0039;Venda Elástica;462
+ITEM-0040;Mascarilla N95;461
+ITEM-0041;Bisturí Desechable;460
+ITEM-0042;Alcohol 70% 1L;459
+ITEM-0043;Gasas 10x10;458
+ITEM-0044;Mascarilla N95;457
+ITEM-0045;Alcohol 70% 1L;456
+ITEM-0046;Alcohol 70% 1L;455
+ITEM-0047;Algodón Paquete 500g;454
+ITEM-0048;Venda Elástica;453
+ITEM-0049;Gasas 10x10;452
+ITEM-0050;Mascarilla N95;451
+ITEM-0051;Mascarilla N95;450
+ITEM-0052;Termómetro Digital;449
+ITEM-0053;Jeringa 5ml;448
+ITEM-0054;Algodón Paquete 500g;447
+ITEM-0055;Bata Quirúrgica;446
+ITEM-0056;Jeringa 5ml;445
+ITEM-0057;Bisturí Desechable;444
+ITEM-0058;Bisturí Desechable;443
+ITEM-0059;Mascarilla N95;442
+ITEM-0060;Venda Elástica;441
+ITEM-0061;Aguja Hipodérmica;440
+ITEM-0062;Mascarilla N95;439
+ITEM-0063;Guante Nitrilo Talla M;438
+ITEM-0064;Alcohol 70% 1L;437
+ITEM-0065;Bisturí Desechable;436
+ITEM-0066;Suero Fisiológico 500ml;435
+ITEM-0067;Mascarilla N95;434
+ITEM-0068;Guante Nitrilo Talla M;433
+ITEM-0069;Guante Nitrilo Talla M;432
+ITEM-0070;Bata Quirúrgica;431
+ITEM-0071;Gasas 10x10;430
+ITEM-0072;Bisturí Desechable;429
+ITEM-0073;Mascarilla N95;428
+ITEM-0074;Gasas 10x10;427
+ITEM-0075;Algodón Paquete 500g;426
+ITEM-0076;Aguja Hipodérmica;425
+ITEM-0077;Venda Elástica;424
+ITEM-0078;Algodón Paquete 500g;423
+ITEM-0079;Suero Fisiológico 500ml;422
+ITEM-0080;Venda Elástica;421
+ITEM-0081;Guante Nitrilo Talla M;420
+ITEM-0082;Alcohol 70% 1L;419
+ITEM-0083;Alcohol 70% 1L;418
+ITEM-0084;Algodón Paquete 500g;417
+ITEM-0085;Gasas 10x10;416
+ITEM-0086;Venda Elástica;415
+ITEM-0087;Guante Nitrilo Talla M;414
+ITEM-0088;Bata Quirúrgica;413
+ITEM-0089;Termómetro Digital;412
+ITEM-0090;Venda Elástica;411
+ITEM-0091;Gasas 10x10;410
+ITEM-0092;Suero Fisiológico 500ml;409
+ITEM-0093;Gasas 10x10;408
+ITEM-0094;Guante Nitrilo Talla M;407
+ITEM-0095;Mascarilla N95;406
+ITEM-0096;Bata Quirúrgica;405
+ITEM-0097;Guante Nitrilo Talla M;404
+ITEM-0098;Bata Quirúrgica;403
+ITEM-0099;Jeringa 5ml;402
+ITEM-0100;Bisturí Desechable;401
+ITEM-0101;Jeringa 5ml;400
+ITEM-0102;Bisturí Desechable;399
+ITEM-0103;Alcohol 70% 1L;398
+ITEM-0104;Bata Quirúrgica;397
+ITEM-0105;Venda Elástica;396
+ITEM-0106;Suero Fisiológico 500ml;395
+ITEM-0107;Termómetro Digital;394
+ITEM-0108;Algodón Paquete 500g;393
+ITEM-0109;Gasas 10x10;392
+ITEM-0110;Jeringa 5ml;391
+ITEM-0111;Gasas 10x10;390
+ITEM-0112;Gasas 10x10;389
+ITEM-0113;Suero Fisiológico 500ml;388
+ITEM-0114;Guante Nitrilo Talla M;387
+ITEM-0115;Gasas 10x10;386
+ITEM-0116;Algodón Paquete 500g;385
+ITEM-0117;Bata Quirúrgica;384
+ITEM-0118;Suero Fisiológico 500ml;383
+ITEM-0119;Bisturí Desechable;382
+ITEM-0120;Algodón Paquete 500g;381
+ITEM-0121;Jeringa 5ml;380
+ITEM-0122;Mascarilla N95;379
+ITEM-0123;Gasas 10x10;378
+ITEM-0124;Algodón Paquete 500g;377
+ITEM-0125;Alcohol 70% 1L;376
+ITEM-0126;Suero Fisiológico 500ml;375
+ITEM-0127;Guante Nitrilo Talla M;374
+ITEM-0128;Aguja Hipodérmica;373
+ITEM-0129;Jeringa 5ml;372
+ITEM-0130;Jeringa 5ml;371
+ITEM-0131;Aguja Hipodérmica;370
+ITEM-0132;Bata Quirúrgica;369
+ITEM-0133;Mascarilla N95;368
+ITEM-0134;Jeringa 5ml;367
+ITEM-0135;Jeringa 5ml;366
+ITEM-0136;Guante Nitrilo Talla M;365
+ITEM-0137;Bisturí Desechable;364
+ITEM-0138;Jeringa 5ml;363
+ITEM-0139;Suero Fisiológico 500ml;362
+ITEM-0140;Bata Quirúrgica;361
+ITEM-0141;Mascarilla N95;360
+ITEM-0142;Alcohol 70% 1L;359
+ITEM-0143;Mascarilla N95;358
+ITEM-0144;Bata Quirúrgica;357
+ITEM-0145;Bisturí Desechable;356
+ITEM-0146;Venda Elástica;355
+ITEM-0147;Suero Fisiológico 500ml;354
+ITEM-0148;Bisturí Desechable;353
+ITEM-0149;Venda Elástica;352
+ITEM-0150;Bata Quirúrgica;351
+ITEM-0151;Guante Nitrilo Talla M;350
+ITEM-0152;Alcohol 70% 1L;349
+ITEM-0153;Mascarilla N95;348
+ITEM-0154;Gasas 10x10;347
+ITEM-0155;Termómetro Digital;346
+ITEM-0156;Mascarilla N95;345
+ITEM-0157;Guante Nitrilo Talla M;344
+ITEM-0158;Alcohol 70% 1L;343
+ITEM-0159;Termómetro Digital;342
+ITEM-0160;Suero Fisiológico 500ml;341
+ITEM-0161;Bata Quirúrgica;340
+ITEM-0162;Algodón Paquete 500g;339
+ITEM-0163;Bata Quirúrgica;338
+ITEM-0164;Suero Fisiológico 500ml;337
+ITEM-0165;Termómetro Digital;336
+ITEM-0166;Venda Elástica;335
+ITEM-0167;Alcohol 70% 1L;334
+ITEM-0168;Suero Fisiológico 500ml;333
+ITEM-0169;Termómetro Digital;332
+ITEM-0170;Jeringa 5ml;331
+ITEM-0171;Mascarilla N95;330
+ITEM-0172;Guante Nitrilo Talla M;329
+ITEM-0173;Algodón Paquete 500g;328
+ITEM-0174;Suero Fisiológico 500ml;327
+ITEM-0175;Guante Nitrilo Talla M;326
+ITEM-0176;Venda Elástica;325
+ITEM-0177;Venda Elástica;324
+ITEM-0178;Bisturí Desechable;323
+ITEM-0179;Algodón Paquete 500g;322
+ITEM-0180;Algodón Paquete 500g;321
+ITEM-0181;Algodón Paquete 500g;320
+ITEM-0182;Bisturí Desechable;319
+ITEM-0183;Jeringa 5ml;318
+ITEM-0184;Bata Quirúrgica;317
+ITEM-0185;Suero Fisiológico 500ml;316
+ITEM-0186;Alcohol 70% 1L;315
+ITEM-0187;Bisturí Desechable;314
+ITEM-0188;Bata Quirúrgica;313
+ITEM-0189;Termómetro Digital;312
+ITEM-0190;Bata Quirúrgica;311
+ITEM-0191;Bisturí Desechable;310
+ITEM-0192;Alcohol 70% 1L;309
+ITEM-0193;Algodón Paquete 500g;308
+ITEM-0194;Mascarilla N95;307
+ITEM-0195;Venda Elástica;306
+ITEM-0196;Mascarilla N95;305
+ITEM-0197;Bisturí Desechable;304
+ITEM-0198;Suero Fisiológico 500ml;303
+ITEM-0199;Bata Quirúrgica;302
+ITEM-0200;Suero Fisiológico 500ml;301
+ITEM-0201;Algodón Paquete 500g;300
+ITEM-0202;Mascarilla N95;299
+ITEM-0203;Venda Elástica;298
+ITEM-0204;Gasas 10x10;297
+ITEM-0205;Jeringa 5ml;296
+ITEM-0206;Suero Fisiológico 500ml;295
+ITEM-0207;Bisturí Desechable;294
+ITEM-0208;Suero Fisiológico 500ml;293
+ITEM-0209;Bisturí Desechable;292
+ITEM-0210;Algodón Paquete 500g;291
+ITEM-0211;Gasas 10x10;290
+ITEM-0212;Termómetro Digital;289
+ITEM-0213;Termómetro Digital;288
+ITEM-0214;Mascarilla N95;287
+ITEM-0215;Suero Fisiológico 500ml;286
+ITEM-0216;Venda Elástica;285
+ITEM-0217;Guante Nitrilo Talla M;284
+ITEM-0218;Mascarilla N95;283
+ITEM-0219;Mascarilla N95;282
+ITEM-0220;Jeringa 5ml;281
+ITEM-0221;Suero Fisiológico 500ml;280
+ITEM-0222;Termómetro Digital;279
+ITEM-0223;Termómetro Digital;278
+ITEM-0224;Bisturí Desechable;277
+ITEM-0225;Bata Quirúrgica;276
+ITEM-0226;Aguja Hipodérmica;275
+ITEM-0227;Aguja Hipodérmica;274
+ITEM-0228;Aguja Hipodérmica;273
+ITEM-0229;Bisturí Desechable;272
+ITEM-0230;Jeringa 5ml;271
+ITEM-0231;Venda Elástica;270
+ITEM-0232;Aguja Hipodérmica;269
+ITEM-0233;Algodón Paquete 500g;268
+ITEM-0234;Gasas 10x10;267
+ITEM-0235;Bisturí Desechable;266
+ITEM-0236;Alcohol 70% 1L;265
+ITEM-0237;Mascarilla N95;264
+ITEM-0238;Venda Elástica;263
+ITEM-0239;Bisturí Desechable;262
+ITEM-0240;Bisturí Desechable;261
+ITEM-0241;Termómetro Digital;260
+ITEM-0242;Bata Quirúrgica;259
+ITEM-0243;Alcohol 70% 1L;258
+ITEM-0244;Jeringa 5ml;257
+ITEM-0245;Bisturí Desechable;256
+ITEM-0246;Mascarilla N95;255
+ITEM-0247;Jeringa 5ml;254
+ITEM-0248;Jeringa 5ml;253
+ITEM-0249;Gasas 10x10;252
+ITEM-0250;Guante Nitrilo Talla M;251
+ITEM-0251;Guante Nitrilo Talla M;250
+ITEM-0252;Jeringa 5ml;249
+ITEM-0253;Aguja Hipodérmica;248
+ITEM-0254;Termómetro Digital;247
+ITEM-0255;Alcohol 70% 1L;246
+ITEM-0256;Aguja Hipodérmica;245
+ITEM-0257;Suero Fisiológico 500ml;244
+ITEM-0258;Bisturí Desechable;243
+ITEM-0259;Termómetro Digital;242
+ITEM-0260;Jeringa 5ml;241
+ITEM-0261;Algodón Paquete 500g;240
+ITEM-0262;Algodón Paquete 500g;239
+ITEM-0263;Suero Fisiológico 500ml;238
+ITEM-0264;Aguja Hipodérmica;237
+ITEM-0265;Suero Fisiológico 500ml;236
+ITEM-0266;Jeringa 5ml;235
+ITEM-0267;Gasas 10x10;234
+ITEM-0268;Bisturí Desechable;233
+ITEM-0269;Algodón Paquete 500g;232
+ITEM-0270;Guante Nitrilo Talla M;231
+ITEM-0271;Alcohol 70% 1L;230
+ITEM-0272;Suero Fisiológico 500ml;229
+ITEM-0273;Jeringa 5ml;228
+ITEM-0274;Gasas 10x10;227
+ITEM-0275;Algodón Paquete 500g;226
+ITEM-0276;Venda Elástica;225
+ITEM-0277;Aguja Hipodérmica;224
+ITEM-0278;Guante Nitrilo Talla M;223
+ITEM-0279;Venda Elástica;222
+ITEM-0280;Jeringa 5ml;221
+ITEM-0281;Alcohol 70% 1L;220
+ITEM-0282;Aguja Hipodérmica;219
+ITEM-0283;Gasas 10x10;218
+ITEM-0284;Aguja Hipodérmica;217
+ITEM-0285;Bisturí Desechable;216
+ITEM-0286;Venda Elástica;215
+ITEM-0287;Venda Elástica;214
+ITEM-0288;Termómetro Digital;213
+ITEM-0289;Bata Quirúrgica;212
+ITEM-0290;Aguja Hipodérmica;211
+ITEM-0291;Termómetro Digital;210
+ITEM-0292;Algodón Paquete 500g;209
+ITEM-0293;Venda Elástica;208
+ITEM-0294;Suero Fisiológico 500ml;207
+ITEM-0295;Venda Elástica;206
+ITEM-0296;Aguja Hipodérmica;205
+ITEM-0297;Gasas 10x10;204
+ITEM-0298;Algodón Paquete 500g;203
+ITEM-0299;Aguja Hipodérmica;202
+ITEM-0300;Aguja Hipodérmica;201
+ITEM-0301;Mascarilla N95;200
+ITEM-0302;Jeringa 5ml;199
+ITEM-0303;Bisturí Desechable;198
+ITEM-0304;Mascarilla N95;197
+ITEM-0305;Venda Elástica;196
+ITEM-0306;Aguja Hipodérmica;195
+ITEM-0307;Bisturí Desechable;194
+ITEM-0308;Jeringa 5ml;193
+ITEM-0309;Mascarilla N95;192
+ITEM-0310;Aguja Hipodérmica;191
+ITEM-0311;Alcohol 70% 1L;190
+ITEM-0312;Algodón Paquete 500g;189
+ITEM-0313;Mascarilla N95;188
+ITEM-0314;Jeringa 5ml;187
+ITEM-0315;Mascarilla N95;186
+ITEM-0316;Bata Quirúrgica;185
+ITEM-0317;Bata Quirúrgica;184
+ITEM-0318;Venda Elástica;183
+ITEM-0319;Alcohol 70% 1L;182
+ITEM-0320;Gasas 10x10;181
+ITEM-0321;Gasas 10x10;180
+ITEM-0322;Jeringa 5ml;179
+ITEM-0323;Suero Fisiológico 500ml;178
+ITEM-0324;Algodón Paquete 500g;177
+ITEM-0325;Gasas 10x10;176
+ITEM-0326;Algodón Paquete 500g;175
+ITEM-0327;Jeringa 5ml;174
+ITEM-0328;Alcohol 70% 1L;173
+ITEM-0329;Suero Fisiológico 500ml;172
+ITEM-0330;Suero Fisiológico 500ml;171
+ITEM-0331;Bata Quirúrgica;170
+ITEM-0332;Venda Elástica;169
+ITEM-0333;Aguja Hipodérmica;168
+ITEM-0334;Suero Fisiológico 500ml;167
+ITEM-0335;Guante Nitrilo Talla M;166
+ITEM-0336;Jeringa 5ml;165
+ITEM-0337;Suero Fisiológico 500ml;164
+ITEM-0338;Suero Fisiológico 500ml;163
+ITEM-0339;Termómetro Digital;162
+ITEM-0340;Algodón Paquete 500g;161
+ITEM-0341;Guante Nitrilo Talla M;160
+ITEM-0342;Termómetro Digital;159
+ITEM-0343;Suero Fisiológico 500ml;158
+ITEM-0344;Aguja Hipodérmica;157
+ITEM-0345;Guante Nitrilo Talla M;156
+ITEM-0346;Bata Quirúrgica;155
+ITEM-0347;Mascarilla N95;154
+ITEM-0348;Suero Fisiológico 500ml;153
+ITEM-0349;Suero Fisiológico 500ml;152
+ITEM-0350;Venda Elástica;151
+ITEM-0351;Algodón Paquete 500g;150
+ITEM-0352;Algodón Paquete 500g;149
+ITEM-0353;Venda Elástica;148
+ITEM-0354;Termómetro Digital;147
+ITEM-0355;Jeringa 5ml;146
+ITEM-0356;Aguja Hipodérmica;145
+ITEM-0357;Jeringa 5ml;144
+ITEM-0358;Mascarilla N95;143
+ITEM-0359;Suero Fisiológico 500ml;142
+ITEM-0360;Aguja Hipodérmica;141
+ITEM-0361;Guante Nitrilo Talla M;140
+ITEM-0362;Suero Fisiológico 500ml;139
+ITEM-0363;Bata Quirúrgica;138
+ITEM-0364;Bisturí Desechable;137
+ITEM-0365;Bisturí Desechable;136
+ITEM-0366;Suero Fisiológico 500ml;135
+ITEM-0367;Algodón Paquete 500g;134
+ITEM-0368;Gasas 10x10;133
+ITEM-0369;Aguja Hipodérmica;132
+ITEM-0370;Gasas 10x10;131
+ITEM-0371;Termómetro Digital;130
+ITEM-0372;Venda Elástica;129
+ITEM-0373;Guante Nitrilo Talla M;128
+ITEM-0374;Suero Fisiológico 500ml;127
+ITEM-0375;Termómetro Digital;126
+ITEM-0376;Termómetro Digital;125
+ITEM-0377;Bisturí Desechable;124
+ITEM-0378;Guante Nitrilo Talla M;123
+ITEM-0379;Alcohol 70% 1L;122
+ITEM-0380;Bisturí Desechable;121
+ITEM-0381;Suero Fisiológico 500ml;120
+ITEM-0382;Gasas 10x10;119
+ITEM-0383;Aguja Hipodérmica;118
+ITEM-0384;Gasas 10x10;117
+ITEM-0385;Guante Nitrilo Talla M;116
+ITEM-0386;Mascarilla N95;115
+ITEM-0387;Suero Fisiológico 500ml;114
+ITEM-0388;Bata Quirúrgica;113
+ITEM-0389;Jeringa 5ml;112
+ITEM-0390;Aguja Hipodérmica;111
+ITEM-0391;Bata Quirúrgica;110
+ITEM-0392;Bata Quirúrgica;109
+ITEM-0393;Suero Fisiológico 500ml;108
+ITEM-0394;Mascarilla N95;107
+ITEM-0395;Suero Fisiológico 500ml;106
+ITEM-0396;Mascarilla N95;105
+ITEM-0397;Alcohol 70% 1L;104
+ITEM-0398;Aguja Hipodérmica;103
+ITEM-0399;Guante Nitrilo Talla M;102
+ITEM-0400;Algodón Paquete 500g;101
+ITEM-0401;Venda Elástica;100
+ITEM-0402;Guante Nitrilo Talla M;99
+ITEM-0403;Bata Quirúrgica;98
+ITEM-0404;Jeringa 5ml;97
+ITEM-0405;Bisturí Desechable;96
+ITEM-0406;Alcohol 70% 1L;95
+ITEM-0407;Bisturí Desechable;94
+ITEM-0408;Guante Nitrilo Talla M;93
+ITEM-0409;Guante Nitrilo Talla M;92
+ITEM-0410;Jeringa 5ml;91
+ITEM-0411;Jeringa 5ml;90
+ITEM-0412;Guante Nitrilo Talla M;89
+ITEM-0413;Termómetro Digital;88
+ITEM-0414;Gasas 10x10;87
+ITEM-0415;Jeringa 5ml;86
+ITEM-0416;Gasas 10x10;85
+ITEM-0417;Aguja Hipodérmica;84
+ITEM-0418;Bisturí Desechable;83
+ITEM-0419;Alcohol 70% 1L;82
+ITEM-0420;Termómetro Digital;81
+ITEM-0421;Jeringa 5ml;80
+ITEM-0422;Aguja Hipodérmica;79
+ITEM-0423;Algodón Paquete 500g;78
+ITEM-0424;Mascarilla N95;77
+ITEM-0425;Bata Quirúrgica;76
+ITEM-0426;Gasas 10x10;75
+ITEM-0427;Termómetro Digital;74
+ITEM-0428;Termómetro Digital;73
+ITEM-0429;Algodón Paquete 500g;72
+ITEM-0430;Algodón Paquete 500g;71
+ITEM-0431;Alcohol 70% 1L;70
+ITEM-0432;Gasas 10x10;69
+ITEM-0433;Mascarilla N95;68
+ITEM-0434;Alcohol 70% 1L;67
+ITEM-0435;Termómetro Digital;66
+ITEM-0436;Guante Nitrilo Talla M;65
+ITEM-0437;Mascarilla N95;64
+ITEM-0438;Termómetro Digital;63
+ITEM-0439;Bisturí Desechable;62
+ITEM-0440;Suero Fisiológico 500ml;61
+ITEM-0441;Suero Fisiológico 500ml;60
+ITEM-0442;Algodón Paquete 500g;59
+ITEM-0443;Jeringa 5ml;58
+ITEM-0444;Alcohol 70% 1L;57
+ITEM-0445;Termómetro Digital;56
+ITEM-0446;Algodón Paquete 500g;55
+ITEM-0447;Bisturí Desechable;54
+ITEM-0448;Jeringa 5ml;53
+ITEM-0449;Alcohol 70% 1L;52
+ITEM-0450;Algodón Paquete 500g;51
+ITEM-0451;Mascarilla N95;50
+ITEM-0452;Bisturí Desechable;49
+ITEM-0453;Termómetro Digital;48
+ITEM-0454;Alcohol 70% 1L;47
+ITEM-0455;Termómetro Digital;46
+ITEM-0456;Guante Nitrilo Talla M;45
+ITEM-0457;Bata Quirúrgica;44
+ITEM-0458;Venda Elástica;43
+ITEM-0459;Suero Fisiológico 500ml;42
+ITEM-0460;Bisturí Desechable;41
+ITEM-0461;Bata Quirúrgica;40
+ITEM-0462;Alcohol 70% 1L;39
+ITEM-0463;Venda Elástica;38
+ITEM-0464;Bisturí Desechable;37
+ITEM-0465;Bata Quirúrgica;36
+ITEM-0466;Guante Nitrilo Talla M;35
+ITEM-0467;Suero Fisiológico 500ml;34
+ITEM-0468;Aguja Hipodérmica;33
+ITEM-0469;Alcohol 70% 1L;32
+ITEM-0470;Suero Fisiológico 500ml;31
+ITEM-0471;Bata Quirúrgica;30
+ITEM-0472;Bisturí Desechable;29
+ITEM-0473;Aguja Hipodérmica;28
+ITEM-0474;Algodón Paquete 500g;27
+ITEM-0475;Gasas 10x10;26
+ITEM-0476;Suero Fisiológico 500ml;25
+ITEM-0477;Gasas 10x10;24
+ITEM-0478;Algodón Paquete 500g;23
+ITEM-0479;Venda Elástica;22
+ITEM-0480;Bisturí Desechable;21
+ITEM-0481;Mascarilla N95;20
+ITEM-0482;Termómetro Digital;19
+ITEM-0483;Venda Elástica;18
+ITEM-0484;Aguja Hipodérmica;17
+ITEM-0485;Aguja Hipodérmica;16
+ITEM-0486;Suero Fisiológico 500ml;15
+ITEM-0487;Algodón Paquete 500g;14
+ITEM-0488;Termómetro Digital;13
+ITEM-0489;Mascarilla N95;12
+ITEM-0490;Bata Quirúrgica;11
+ITEM-0491;Jeringa 5ml;10
+ITEM-0492;Alcohol 70% 1L;9
+ITEM-0493;Mascarilla N95;8
+ITEM-0494;Aguja Hipodérmica;7
+ITEM-0495;Jeringa 5ml;6
+ITEM-0496;Aguja Hipodérmica;5
+ITEM-0497;Termómetro Digital;4
+ITEM-0498;Termómetro Digital;3
+ITEM-0499;Bisturí Desechable;2
+ITEM-0500;Suero Fisiológico 500ml;1
