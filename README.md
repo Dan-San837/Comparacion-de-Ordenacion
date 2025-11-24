@@ -1,7 +1,7 @@
 
 # Comparación de Algoritmos de Ordenación
 
-Este proyecto examina cómo se desempeñan tres métodos de ordenamiento —Burbuja, Selección e Inserción— empleando conjuntos de datos creados con propiedades definidas para comprobar su rendimiento en distintas situaciones.
+Este proyecto examina cómo se desempeñan tres métodos de ordenamiento: Burbuja, Selección e Inserción empleando conjuntos de datos creados con propiedades definidas para comprobar su rendimiento en distintas situaciones.
 
 ## Descripción 
 El proposito principal es medir, para cada algoritmo, el tiempo de ejecución (en nanosegundos), , la cantidad de comparaciones que realizan y el número de intercambios (swaps) al ordenar listas (datasets) compuestas por objetos complejos como Citas, Pacientes o elementos de Inventario.
@@ -79,4 +79,4 @@ El programa imprimirá en consola una tabla comparativa para cada dataset:
 
 **Asignatura**: Estructura de Datos
 
-**Fecha**: Noviembre 2025
+**Fecha**: 24/11/2025
