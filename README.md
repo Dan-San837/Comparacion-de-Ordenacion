@@ -1,16 +1,16 @@
 
-# Comparación de Algoritmos de Ordenamiento
+# Comparación de Algoritmos de Ordenación
 
-Este proyecto implementa y compara el rendimiento de tres algoritmos de ordenamiento (Burbuja, Selección e Inserción) utilizando datasets generados con características específicas para analizar su comportamiento en diferentes escenarios.
+Este proyecto examina cómo se desempeñan tres métodos de ordenamiento —Burbuja, Selección e Inserción— empleando conjuntos de datos creados con propiedades definidas para comprobar su rendimiento en distintas situaciones.
 
-## 📋Descripción del Proyecto
-El objetivo principal es medir empíricamente el tiempo de ejecución (en nanosegundos), el número de comparaciones y los intercambios (swaps) realizados por cada algoritmo al ordenar listas (datasets) de objetos complejos (Citas, Pacientes, Inventario).
+## 📋Descripción 
+El proposito principal es medir, para cada algoritmo, el tiempo de ejecución (en nanosegundos), , la cantidad de comparaciones que realizan y el número de intercambios (swaps) al ordenar listas (datasets) compuestas por objetos complejos como Citas, Pacientes o elementos de Inventario.
 
 ## Algoritmos Implementados
     1. Bubble Sort (Burbuja): compara pares vecinos y los intercambia si están mal; repite pasadas hasta dejar todo ordenado.
     2. Selection Sort (Selección): busca el mínimo en la parte no ordenada y lo coloca al frente en cada iteración.
     3. Insertion Sort (Inserción): toma cada elemento y lo desplaza hacia atrás hasta insertarlo donde mantiene el orden correcto.
-Todas las implementaciones son genéricas, trabajando con ```Comparable[]``` para soportar cualquier tipo de objeto.
+
 
 ## 📂 Estructura del Proyecto
 
@@ -21,9 +21,9 @@ Comparacion/
 │   ├── BenchmarkRunner.java   # Ejecuta cada algoritmo con repeticiones para mayor precisión.
 │   ├── CSVLoader.java         # Carga los archivos CSV desde raíz, src o resources.
 │   ├── SortStats.java         # Clase para guardar métricas (tiempo, swaps, comparaciones).
-│   ├── BubbleSort.java        # Implementación de Burbuja.
-│   ├── SelectionSort.java     # Implementación de Selección.
-│   ├── InsertionSort.java     # Implementación de Inserción.
+│   ├── BubbleSort.java        
+│   ├── SelectionSort.java     
+│   ├── InsertionSort.java     
 │   ├── Cita.java              # Modelo de datos para citas (comparable por Fecha).
 │   ├── Paciente.java          # Modelo de datos para pacientes (comparable por Apellido).
 │   └── Inventario.java        # Modelo de datos para inventario (comparable por Stock).
