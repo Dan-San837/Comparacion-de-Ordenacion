@@ -3,7 +3,7 @@
 
 Este proyecto examina cómo se desempeñan tres métodos de ordenamiento —Burbuja, Selección e Inserción— empleando conjuntos de datos creados con propiedades definidas para comprobar su rendimiento en distintas situaciones.
 
-## 📋Descripción 
+## Descripción 
 El proposito principal es medir, para cada algoritmo, el tiempo de ejecución (en nanosegundos), , la cantidad de comparaciones que realizan y el número de intercambios (swaps) al ordenar listas (datasets) compuestas por objetos complejos como Citas, Pacientes o elementos de Inventario.
 
 ## Algoritmos Implementados
@@ -12,7 +12,7 @@ El proposito principal es medir, para cada algoritmo, el tiempo de ejecución (e
     3. Insertion Sort (Inserción): toma cada elemento y lo desplaza hacia atrás hasta insertarlo donde mantiene el orden correcto.
 
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```bash
 Comparacion/
@@ -34,7 +34,7 @@ Comparacion/
 └── inventario_500_inverso.csv # Dataset 4: Orden inverso
 ```
 
-## 📊 Datasets Utilizados
+##  Datasets Utilizados
 Los archivos CSV fueron generados usando una semilla fija (42) para garantizar reproducibilidad.
 
 1. citas_100.csv (Caso Promedio):
@@ -53,7 +53,7 @@ Los archivos CSV fueron generados usando una semilla fija (42) para garantizar r
     - 500 registros ordenados estrictamente de mayor a menor (Stock 500 a 1).
     - Objetivo: Evidenciar el peor caso O(n²) de Burbuja e Inserción.
 
-## 🚀 Instrucciones de Ejecución
+##  Instrucciones de Ejecución
 **Requisitos Previos**
 
 - Java JDK: Versión 8 o superior (recomendado JDK 17 o 21).
@@ -74,7 +74,7 @@ El programa imprimirá en consola una tabla comparativa para cada dataset:
 
 
 
-## 👤 Autores
+##  Autores
 **Estudiantes**: Daniel Saavedra, Emilio Galvez
 
 **Asignatura**: Estructura de Datos
